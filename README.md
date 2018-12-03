@@ -1,4 +1,4 @@
-# triangle-tracker
+# Triangle-Tracker
 
 # Created by Timothy Ortega.
 
