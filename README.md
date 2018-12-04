@@ -7,6 +7,8 @@ A triangle is scalene if all of its three sides are different (in which case, th
 
 ------------------------------------------
 ![Triangle](https://github.com/TimofeyTTT/triangle-tracker/blob/master/triangle.jpg)
+------------------------------------------------------------------------------------------------------------------------------
+
 ## Bugs
 There are no bugs but incase of one being found or dicovered let me know.
 
